@@ -5,4 +5,5 @@
 ##### H5 Header
 ###### H6 Header
 
-INDEX.MD UPDATED
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
